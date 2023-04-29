@@ -2,7 +2,7 @@
 
 #define max(a,b) ((a>b)?a:b)
 
-int intitializer(){
+int initializer(){
     int x;
     std::cout<<"\nEnter a number:";
     std::cin>>x;
@@ -10,8 +10,8 @@ int intitializer(){
 }
 
 int main(){
-    int a{intitializer()};
-    int b{intitializer()};
+    int a{initializer()};
+    int b{initializer()};
 
     #ifdef max
 
