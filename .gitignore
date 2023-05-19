@@ -1,0 +1,9 @@
+#ignore executables
+*.exe
+
+#ignore support/dependent libraries && libraries
+support/
+.vscode
+
+#ignore logfiles
+Logfile.txt
