@@ -9,7 +9,7 @@ Running a program
     then , terminal->configure task
     this will open a task.json file
 
-    ![task.json img](image/taskJson.png)
+    ![task.json img](./images/taskJson.png)
 
     modify the args as in the above image
 
