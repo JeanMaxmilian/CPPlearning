@@ -3,7 +3,9 @@
 
 #ignore support/dependent libraries && libraries
 support/
+
 .vscode
+*.bat
 
 #ignore logfiles
 Logfile.txt

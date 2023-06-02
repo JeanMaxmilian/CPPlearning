@@ -3,7 +3,7 @@
 #define max(a,b) ((a>b)?a:b)
 
 int initializer(){
-    int x;
+    int x{};
     std::cout<<"\nEnter a number:";
     std::cin>>x;
     return x;

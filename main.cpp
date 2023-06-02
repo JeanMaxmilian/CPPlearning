@@ -1,4 +1,4 @@
-// program to check whether the compileris configured correctly
+// program to check whether the compiler is configured correctly
 //terminal-> configure tasks
 //edit tasks.json set "-std=c++20" for c++ version 20
 //termial->new terminal
