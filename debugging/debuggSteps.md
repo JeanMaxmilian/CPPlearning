@@ -18,7 +18,7 @@ then , terminal->configure task
 this will open a task.json file
 
     
-![taskjson](/images/taskJson.png)
+![taskjson](CPPlearning/debugging/images/taskJson.png)
    
 
 modify the args as in the above image
@@ -35,7 +35,7 @@ To set up debugging, press Ctrl+Shift+P and select “C/C++: Add Debug Configura
 "stopAtEntry": true,
 
 
-![launchjson](/images/launchjson.png)
+![launchjson](CPPlearning/debugging/images/launchjson.png)
 
 
 Then open the cpp file and start debugging by pressing F11 or by pressing Ctrl+Shift+P and selecting “Debug: Start Debugging and Stop on Entry”.
