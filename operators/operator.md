@@ -4,8 +4,8 @@
 - L->R means left to right associativity.
 - R->L means right to left associativity.
 
-![table](./table-1.png)
-![table](./table-2.png)
-![table](./table-3.png)
+![table](./images/table-1.png)
+![table](./images/table-2.png)
+![table](./images/table-3.png)
 
 refer : [LearnCpp](https://www.learncpp.com/cpp-tutorial/operator-precedence-and-associativity/) , [cppreference.com](https://en.cppreference.com/w/c/language/operator_precedence)
