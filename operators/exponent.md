@@ -49,7 +49,7 @@ Step 1
     if(011 & 1) //true
         result *= 6 // result =6
 
-    011 >>1 // exp =001
+    011 >>=1 // exp =001
     base *= base // base=36
  }
  ```
@@ -63,7 +63,7 @@ Step 2
     if(001 & 1) //true
         result *= 36 // result = 216
 
-    001 >>1 // exp =000
+    001 >>=1 // exp =000
     base *= base // base=216
  }
  ```
